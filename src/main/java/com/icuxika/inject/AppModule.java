@@ -10,8 +10,6 @@ import com.icuxika.AppFXML;
 import com.icuxika.AppResource;
 import com.icuxika.action.HomeAction;
 import com.icuxika.action.LoginAction;
-import com.icuxika.controller.HomeController;
-import com.icuxika.controller.LoginController;
 import com.icuxika.view.HomeView;
 import com.icuxika.view.LoginView;
 import javafx.fxml.FXMLLoader;
